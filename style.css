@@ -1,0 +1,28 @@
+h1{
+    color: red;
+    text-align: center;
+}
+h2{
+    text-align: center;
+
+}
+details{
+        text-align: center;
+}
+body {
+    background-color: pink;
+    background-image: url('assets/Fond.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+.saDescrip{
+    font-size: 30px;
+    text-align: center;
+}
+
+li {
+    display: inline-block; /* Les images se placent les unes à côté des autres */
+    margin-right: 10px; /* Espace entre les images */
+  }
